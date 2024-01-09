@@ -1,17 +1,5 @@
 # Predicting Spotify Track Popularity (2022)
 
-Can a Spotify track’s audio features predict, with at least 75% accuracy, the track’s popularity on Spotify?
-
-## Technologies
-- Python
-- Numpy
-- Pandas
-- Scikit-Learn
-- Matplotlib
-- Seaborn
-
-## Implementation
-
 This project uses a series of machine learning algorithms to predict the popularity of a song on Spotify using its audio features.
 
 ### Spotify Song Audio Features
@@ -60,6 +48,14 @@ popularity integer: the popularity of the track. The value will be between 0 and
 
 * **valence** *number*:
   * a measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
+
+## Technologies
+- Python
+- Numpy
+- Pandas
+- Scikit-Learn
+- Matplotlib
+- Seaborn
 
 
 
