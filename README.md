@@ -2,6 +2,14 @@
 
 Can a Spotify track’s audio features predict, with at least 75% accuracy, the track’s popularity on Spotify?
 
+## Technologies
+- Python
+- Numpy
+- Pandas
+- Scikit-Learn
+- Matplotlib
+- Seaborn
+
 ## Implementation
 
 This project uses a series of machine learning algorithms to predict the popularity of a song on Spotify using its audio features.
